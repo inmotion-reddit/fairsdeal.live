@@ -2,3 +2,4 @@ User-agent: *
 Disallow: 
 
 Sitemap: https://www.fairsdeal.live/sitemap.xml
+Sitemap: https://www.fairsdeal.live/images_sitemap.xml
